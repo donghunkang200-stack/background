@@ -5,4 +5,4 @@
 - 이벤트 적용 🎈
 - 깃허브 페이지
 
-[배포](주소적기)
+[배포](https://donghunkang200-stack.github.io/background/)
